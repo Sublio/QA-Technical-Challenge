@@ -29,3 +29,7 @@ Please read below for the context and instructions.
 1. Think of reusability when automating tests 
 2. Always return the application to its initial state
 3. Apply Cypress's [best practices](https://docs.cypress.io/guides/references/best-practices)
+
+### How to run this project:
+1. Install requirements via "npm install"
+2. In order to run all tests in terminal "npx cypress run"
