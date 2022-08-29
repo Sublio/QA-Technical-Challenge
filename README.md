@@ -32,4 +32,4 @@ Please read below for the context and instructions.
 
 ### How to run this project:
 1. Install requirements via "npm install"
-2. In order to run all tests in terminal "npx cypress run"
+2. In order to run all tests in terminal type "npx cypress run"
